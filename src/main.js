@@ -25,6 +25,7 @@ define([
           DOM.br(),
           'Use your Browser\'s back/forward button to undo/redo moves.'
         ]),
+        DOM.a({className: 'btn btn-default', href: '#/012345678'}, 'Hint'),
         DOM.a({className: 'btn btn-default', href: '#/' + shuffle(5)}, 'Shuffle'),
         DOM.div({id: 'cells'}, [
           DOM.div(null, [
