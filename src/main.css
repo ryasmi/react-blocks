@@ -21,6 +21,15 @@ body {
   width: 32px;
   height: 32px;
 }
+.react {
+  text-decoration: none;
+  margin-top: 1rem;
+  display: inline-block;
+  background-image: url("http://www.toptal.com/uploads/blog/category/logo/291/react.png");
+  background-size: 100%;
+  width: 32px;
+  height: 32px;
+}
 .btn {
   margin: 2px;
 }
