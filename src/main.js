@@ -50,7 +50,7 @@ define([
 
   var routes = Router.Route(null, [
     Router.Route({handler: Game, name: 'game', path:':order'}),
-    Router.Redirect({from: '/', to: 'game', params: {order: shuffle()}}),
+    Router.Redirect({from: '/', to: 'game', params: {order: shuffle(5)}}),
   ]);
 
   Router.run(routes, function (Handler) {
