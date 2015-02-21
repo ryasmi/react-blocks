@@ -1,0 +1,23 @@
+html {
+  font-family: Arial;
+}
+body {
+  margin: 0 auto;
+  padding: 5px;
+  text-align: center;
+}
+#cells {
+  margin-top: 5px;
+}
+.cell {
+  width: 80px;
+  height: 80px;
+}
+.github {
+  text-decoration: none;
+  margin-top: 1rem;
+  display: inline-block;
+  background-image: url("http://ryansmith94.github.io/SlidingBlocks/images/github.png");
+  width: 32px;
+  height: 32px;
+}
