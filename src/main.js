@@ -23,7 +23,7 @@ define([
         DOM.p(null, [
           'Solve the puzzle by pressing on the tiles to recreate the original image.',
           DOM.br(),
-          'Use your Browser\'s back/forward button to undo/redo moves.'
+          'Use your Browser\'s back/forward button to undo/redo moves/hints/shuffles.'
         ]),
         DOM.a({className: 'btn btn-default', href: '#/012345678'}, 'Hint'),
         DOM.a({className: 'btn btn-default', href: '#/' + shuffle(5)}, 'Shuffle'),
