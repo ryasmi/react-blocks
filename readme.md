@@ -21,5 +21,5 @@ You may contribute to this project via [issues](/issues) and [pull request](/pul
 6. Create a [pull request](/pulls) on Github (ensuring that you follow the [guidelines](/contributing.md)).
 
 ### Directory Structure
-- [src](/src) - Source code written in PHP.
+- [src](/src) - Source code written in JavaScript/HTML/CSS.
 - [bower_components](/bower_components) - Bower dependencies.
