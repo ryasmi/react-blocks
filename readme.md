@@ -14,7 +14,7 @@ You may contribute to this project via [issues](/issues) and [pull request](/pul
 
 ### Getting Started
 1. [Fork](/fork) the repository.
-2. Clone your forked version of the repository into you Apache's `www` directory.
+2. Clone your forked version of the repository into your Apache's `www` directory.
 3. Change the code.
 4. Repeat from Step 4 or continue to step 7.
 5. Commit and push your changes to Github.
